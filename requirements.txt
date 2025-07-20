@@ -1,0 +1,9 @@
+django
+djangorestframework
+langgraph
+django-cors-headers
+langchain
+openai
+tiktoken
+langchain-community
+python-dotenv
